@@ -1,0 +1,26 @@
+{
+  "name": "ai-task-hub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "postinstall": "prisma generate"
+  },
+  "dependencies": {
+    "next": "15.0.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@kinde-oss/kinde-auth-nextjs": "^2.9.2",
+    "@prisma/client": "^6.0.0",
+    "openai": "^4.0.0"
+  },
+  "devDependencies": {
+    "prisma": "^6.0.0",
+    "tailwindcss": "^3.4.13",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.20"
+  }
+}
