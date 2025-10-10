@@ -6,29 +6,19 @@
           "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Cnode_modules%5C%5C%40kinde-oss%5C%5Ckinde-auth-nextjs%5C%5Cdist%5C%5Csrc%5C%5Csession%5C%5CrefreshTokensServerAction.es.js%22%2C%5B%5B%227fc79908dac779247a60261132df8cf9fb8ba35fc4%22%2C%22refreshTokensServerAction%22%5D%5D%5D%5D&__client_imported__=true!",
           "async": false
         },
-        "app/_not-found/page": {
-          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Cnode_modules%5C%5C%40kinde-oss%5C%5Ckinde-auth-nextjs%5C%5Cdist%5C%5Csrc%5C%5Csession%5C%5CrefreshTokensServerAction.es.js%22%2C%5B%5B%227fc79908dac779247a60261132df8cf9fb8ba35fc4%22%2C%22refreshTokensServerAction%22%5D%5D%5D%5D&__client_imported__=true!",
-          "async": false
-        },
         "app/dashboard/page": {
           "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Cnode_modules%5C%5C%40kinde-oss%5C%5Ckinde-auth-nextjs%5C%5Cdist%5C%5Csrc%5C%5Csession%5C%5CrefreshTokensServerAction.es.js%22%2C%5B%5B%227fc79908dac779247a60261132df8cf9fb8ba35fc4%22%2C%22refreshTokensServerAction%22%5D%5D%5D%5D&__client_imported__=true!",
           "async": false
         },
-        "app/about/page": {
-          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Cnode_modules%5C%5C%40kinde-oss%5C%5Ckinde-auth-nextjs%5C%5Cdist%5C%5Csrc%5C%5Csession%5C%5CrefreshTokensServerAction.es.js%22%2C%5B%5B%227fc79908dac779247a60261132df8cf9fb8ba35fc4%22%2C%22refreshTokensServerAction%22%5D%5D%5D%5D&__client_imported__=true!",
-          "async": false
-        },
-        "app/tasks/page": {
+        "app/api/tasks/page": {
           "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Cnode_modules%5C%5C%40kinde-oss%5C%5Ckinde-auth-nextjs%5C%5Cdist%5C%5Csrc%5C%5Csession%5C%5CrefreshTokensServerAction.es.js%22%2C%5B%5B%227fc79908dac779247a60261132df8cf9fb8ba35fc4%22%2C%22refreshTokensServerAction%22%5D%5D%5D%5D&__client_imported__=true!",
           "async": false
         }
       },
       "layer": {
         "app/page": "action-browser",
-        "app/_not-found/page": "action-browser",
         "app/dashboard/page": "action-browser",
-        "app/about/page": "action-browser",
-        "app/tasks/page": "action-browser"
+        "app/api/tasks/page": "action-browser"
       }
     },
     "7f224b305c6549b06aa7b963c96f56f3c8162d160d": {

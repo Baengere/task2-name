@@ -1,6 +1,7 @@
 {
+  "/api/auth/[...kindeAuth]/route": "app/api/auth/[...kindeAuth]/route.js",
+  "/api/tasks/route": "app/api/tasks/route.js",
   "/page": "app/page.js",
   "/dashboard/page": "app/dashboard/page.js",
-  "/about/page": "app/about/page.js",
-  "/tasks/page": "app/tasks/page.js"
+  "/api/tasks/page": "app/api/tasks/page.js"
 }
