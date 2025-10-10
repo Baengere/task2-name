@@ -4,6 +4,7 @@ import { useKindeAuth } from '@kinde-oss/kinde-auth-nextjs'
 import TaskForm from '@/components/TaskForm'
 import TaskFeed from '@/components/TaskFeed'
 
+
 export default function Dashboard() {
   const { user, isAuthenticated, isLoading } = useKindeAuth()
 
