@@ -1,6 +1,6 @@
 import './globals.css'
 import KindeClientProvider from "./providers/KindeClientProvider";
-import Navbar from './components/Navbar'
+import Navbar from '../components/Navbar'
 
 export const metadata = {
   title: 'Flow of Work',
