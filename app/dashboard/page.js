@@ -21,10 +21,9 @@ export default function Dashboard() {
       <div className="flex flex-col justify-center items-center h-screen text-gray-700">
         <h2 className="text-xl font-semibold mb-4">Please log in to access the dashboard</h2>
         <a
-          href="/api/auth/login"
-          className="bg-indigo-600 text-white px-4 py-2 rounded-xl hover:bg-indigo-700 transition"
-        >
-          Login with Kinde
+          href={`${process.env.NEXT_PUBLIC_KINDE_SITE_URL || ''}/api/auth/login`}
+          className="bg-indigo-600 text-white px-4 py-2 rounded-xl hover:bg-indigo-700 transition">
+            Login with Kinde
         </a>
       </div>
     )
