@@ -1,45 +1,5 @@
 {
-  "node": {
-    "7fc79908dac779247a60261132df8cf9fb8ba35fc4": {
-      "workers": {
-        "app/page": {
-          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Cnode_modules%5C%5C%40kinde-oss%5C%5Ckinde-auth-nextjs%5C%5Cdist%5C%5Csrc%5C%5Csession%5C%5CrefreshTokensServerAction.es.js%22%2C%5B%7B%22id%22%3A%227fc79908dac779247a60261132df8cf9fb8ba35fc4%22%2C%22exportedName%22%3A%22refreshTokensServerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Cnode_modules%5C%5C%40kinde-oss%5C%5Ckinde-auth-nextjs%5C%5Cdist%5C%5Csrc%5C%5Csession%5C%5CrefreshTokensServerAction.es.js%22%7D%5D%5D%5D&__client_imported__=true!",
-          "async": false
-        }
-      },
-      "layer": {
-        "app/page": "action-browser"
-      },
-      "filename": "../C:\\Users\\jojo\\Desktop\\task2\\node_modules\\@kinde-oss\\kinde-auth-nextjs\\dist\\src\\session\\refreshTokensServerAction.es.js",
-      "exportedName": "refreshTokensServerAction"
-    },
-    "7f224b305c6549b06aa7b963c96f56f3c8162d160d": {
-      "workers": {
-        "app/api/auth/[...kindeAuth]/route": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Capp%5C%5Capi%5C%5Cauth%5C%5C%5B...kindeAuth%5D%5C%5Croute.js%22%2C%5B%7B%22id%22%3A%227f224b305c6549b06aa7b963c96f56f3c8162d160d%22%2C%22exportedName%22%3A%22GET%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Capp%5C%5Capi%5C%5Cauth%5C%5C%5B...kindeAuth%5D%5C%5Croute.js%22%7D%2C%7B%22id%22%3A%227f7591c9f4dcc79bd5f8f8427a84b0402bcdddb215%22%2C%22exportedName%22%3A%22POST%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Capp%5C%5Capi%5C%5Cauth%5C%5C%5B...kindeAuth%5D%5C%5Croute.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        }
-      },
-      "layer": {
-        "app/api/auth/[...kindeAuth]/route": "rsc"
-      },
-      "filename": "../C:\\Users\\jojo\\Desktop\\task2\\app\\api\\auth\\[...kindeAuth]\\route.js",
-      "exportedName": "GET"
-    },
-    "7f7591c9f4dcc79bd5f8f8427a84b0402bcdddb215": {
-      "workers": {
-        "app/api/auth/[...kindeAuth]/route": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Capp%5C%5Capi%5C%5Cauth%5C%5C%5B...kindeAuth%5D%5C%5Croute.js%22%2C%5B%7B%22id%22%3A%227f224b305c6549b06aa7b963c96f56f3c8162d160d%22%2C%22exportedName%22%3A%22GET%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Capp%5C%5Capi%5C%5Cauth%5C%5C%5B...kindeAuth%5D%5C%5Croute.js%22%7D%2C%7B%22id%22%3A%227f7591c9f4dcc79bd5f8f8427a84b0402bcdddb215%22%2C%22exportedName%22%3A%22POST%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5Cjojo%5C%5CDesktop%5C%5Ctask2%5C%5Capp%5C%5Capi%5C%5Cauth%5C%5C%5B...kindeAuth%5D%5C%5Croute.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        }
-      },
-      "layer": {
-        "app/api/auth/[...kindeAuth]/route": "rsc"
-      },
-      "filename": "../C:\\Users\\jojo\\Desktop\\task2\\app\\api\\auth\\[...kindeAuth]\\route.js",
-      "exportedName": "POST"
-    }
-  },
+  "node": {},
   "edge": {},
   "encryptionKey": "3BrjSpzvc4yW5YmIzdoAlQAZ84UL6cRRmam6ftE4Vt4="
 }
